@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Python, Django, Javascript, GraphQL, ReactJS, NodeJS, Typescript, Azure and so on...</br>
 👯 I’m looking to collaborate on projects that use ReactJs or Python, so I can practice what I am learning.</br>
-📫 How to reach me: thalitacolofatti@gmail.com</br>
+📫 How to reach me: thalitacolofatti@gmail.com or @filoactto on Instagram</br>
 💬 Ask me about illustrations or art. 🥰</br>
 ⚡ Fun fact: I am a architect and I have designed houses and landscape for 10 years. I also have designed a simple game a year ago using Adobe Animate and I would love to study animations again.
 <!--
