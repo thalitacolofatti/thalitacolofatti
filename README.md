@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python, Django, Javascript, GraphQL, ReactJS, NodeJS, Typescript, Azure and so on...</br>
+🌱 I’m currently learning PHP, Laravel, Python, Django, Javascript, GraphQL, ReactJS, NodeJS, Typescript, Azure and so on...</br>
 👯 I’m looking to collaborate on projects that use ReactJs or Python, so I can practice what I am learning.</br>
 📫 How to reach me: thalitacolofatti@gmail.com or @filoactto on Instagram</br>
 💬 Ask me about illustrations or art. 🥰</br>
