@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python, Java, Android, Swift, Django, Javascript, GraphQL, ReactJS, NodeJS, Typescript, Azure and so on...</br>
+🌱 I’m currently learning Unity VR (C#), Python, Java, Android </br>
 👯 I’m looking to collaborate on projects that use Unity, Python and Java, so I can practice what I am learning.</br>
 📫 How to reach me: thalitacolofatti@gmail.com or @filoactto on Instagram</br>
 💬 Ask me about illustrations or art. 🥰</br>
