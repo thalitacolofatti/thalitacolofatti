@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Unity VR (C#), Python, Java, Android </br>
+🌱 I’m currently learning Unity VR (C#), Python, Java </br>
 👯 I’m looking to collaborate on projects that use Unity, Python and Java, so I can practice what I am learning.</br>
 📫 How to reach me: thalitacolofatti@gmail.com or @filoactto on Instagram</br>
 💬 Ask me about illustrations or art. 🥰</br>
