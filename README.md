@@ -1,8 +1,8 @@
 ## Olá! / Hi there! 👋
 
-[**PTBR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e eu irei me formar em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Atualmente, eu sou bolsista CNPq desenvolvendo um projeto de Realidade Virtual com Unity. 
+[**PTBR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Também fui bolsista CNPq desde 2021 em um projeto do IPEN no qual desenvolvi uma visita ao Instituto em Realidade Virtual com Unity. 
 
-[**EN**] - My name is Thalita, I graduated in Architecture and Urbanism in 2012 and I will graduate in Systems Analysis and Development at FATEC SP in July 2024. Currently, I am a CNPq scholarship holder and I develop a Virtual Reality project with Unity.
+[**EN**] - My name is Thalita, I graduated in Architecture and Urbanism in 2012 and in Systems Analysis and Development at FATEC SP in July 2024. I had a CNPq scholarship since 2021 on a project at IPEN, where I develop a virtual Reality tour of the Institute using Unity.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalitaacb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
