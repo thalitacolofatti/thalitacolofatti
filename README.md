@@ -1,8 +1,8 @@
 ## Olá! / Hi there! 👋
 
-[**PT-BR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Também fui bolsista CNPq desde 2021 em um projeto do IPEN no qual desenvolvi uma visita ao Instituto em Realidade Virtual com Unity. 
+[**PT-BR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Também fui bolsista CNPq por 3 anos em um projeto do IPEN no qual desenvolvi uma visita ao Instituto em Realidade Virtual com Unity. 
 
-[**EN**] - My name is Thalita, I graduated in Architecture and Urbanism in 2012 and in Systems Analysis and Development at FATEC SP in July 2024. I had a CNPq scholarship since 2021 on a project at IPEN, where I develop a virtual Reality tour of the Institute using Unity.
+[**EN**] - My name is Thalita, I have a degree in Computer Systems Analysis and Development at FATEC SP and a Bachelor degree in Architecture and Urban Planning at Universidade Anhembi Morumbi. I had a CNPq scholarship for 3 years on a project at IPEN, where I developed a virtual Reality tour of the Institute using Unity.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalitaacb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thalitacolofatti)
@@ -36,11 +36,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 #### Banco de Dados / Database 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Ferramentas e Bibliotecas / Tools & Libraries
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
