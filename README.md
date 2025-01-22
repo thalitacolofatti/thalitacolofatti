@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thalitacolofatti@gmail.com)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thalitacolofatti&theme=buefy-dark&hide_border=true&background=000&dates=FFF)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=thalitacolofatti&theme=buefy-dark&hide_border=true&background=000&dates=FFF)](https://git.io/streak-stats)-->
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalitacolofatti&layout=compact&bg_color=000&border_color=00000000&title_color=c18ced&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalitacolofatti&theme=panda&bg_color=000&border_color=00000000&show_icons=true&icon_color=5cffc3&title_color=c18ced&text_color=FFF)
 
