@@ -1,6 +1,6 @@
 ## Olá! / Hi there! 👋
 
-[**PT-BR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Também fui bolsista CNPq por 3 anos em um projeto do IPEN no qual desenvolvi uma visita ao Instituto em Realidade Virtual com Unity. 
+[**PT-BR**] - Meu nome é Thalita, eu me formei em Arquitetura e Urbanismo em 2012 e em Análise e Desenvolvimento de Sistemas pela FATEC SP em julho de 2024. Também fui bolsista CNPq por 3 anos em um projeto do IPEN no qual desenvolvi uma aplicação de visita virtual (VR) com Unity. 
 
 [**EN**] - My name is Thalita, I have a degree in Computer Systems Analysis and Development at FATEC SP and a Bachelor degree in Architecture and Urban Planning at Universidade Anhembi Morumbi. I had a CNPq scholarship for 3 years on a project at IPEN, where I developed a virtual Reality tour of the Institute using Unity.
 
